@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keval</title>
+    <style>
+        body { 
+            background: #111; 
+            color: #fff; 
+            font-family: sans-serif; 
+            text-align: center; 
+            padding-top: 20vh; 
+        }
+        a { 
+            color: #00bcd4; 
+            text-decoration: none; 
+            border: 1px solid #00bcd4; 
+            padding: 8px 16px; 
+            border-radius: 4px; 
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Hi, I'm Keval</h1>
+    <p>Welcome to my minimalist website.</p>
+    <br><br>
+    <a href="mailto:your-email@example.com">Contact Me</a>
+
+</body>
+</html>
